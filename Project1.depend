@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\syed\documents\course materials\winter'16\ece 4960\lab1\project1\main.cpp
+	<iostream>
+
+1455851726 source:c:\users\syed\documents\course materials\winter'16\ece 4960\lab1\project1\shared.cpp
+	<iostream>
+	<cfloat>
+	<math.h>
+
+1455852100 source:c:\users\syed\documents\course materials\winter'16\ece 4960\lab1\project1\test.cpp
+	<iostream>
+	<math.h>
+	<cfloat>
+	"head.h"
+	<fenv.h>
+	<limits>
+	<ctime>
+
+1455852196 c:\users\syed\documents\course materials\winter'16\ece 4960\lab1\project1\head.h
+	<limits>
+
+1455851401 source:c:\users\syed\documents\course materials\winter'16\ece 4960\lab1\project1\functions.cpp
+	<iostream>
+	<math.h>
+	<cfloat>
+	"head.h"
+	<fenv.h>
+	<limits>
+	<ctime>
+
